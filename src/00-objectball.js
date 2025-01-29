@@ -1,7 +1,3 @@
-
 function gameObject() {
-    console.log( 'hello world' )
-    console.log('hi')
+    return {}
 }
-
-gameObject()
